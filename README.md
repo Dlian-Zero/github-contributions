@@ -10,7 +10,7 @@
 
 <center>
   
-[一键导入]([https://example.com](https://scripting.fun/import_scripts?urls=%5B%22https%3A%2F%2Fgithub.com%2FDlian-Zero%2Fgithub-contributions%2Fraw%2Frefs%2Fheads%2Fmain%2Fgithub-contributions.scripting%22%5D))
+[一键导入](https://scripting.fun/import_scripts?urls=%5B%22https%3A%2F%2Fgithub.com%2FDlian-Zero%2Fgithub-contributions%2Fraw%2Frefs%2Fheads%2Fmain%2Fgithub-contributions.scripting%22%5D)
 
 </center>
 
