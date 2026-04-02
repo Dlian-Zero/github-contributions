@@ -1,7 +1,3 @@
-# github-contributions
-基于scripting app的GitHub贡献热力图
-
-
 ## 小组件效果
 
 <center>
